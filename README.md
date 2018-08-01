@@ -1,1 +1,7 @@
-# abhishekpethani.github.io
+# Goods And Transportaion
+Goods and Road Transportation Services, is one of the high flooded occupation today. Our aim via this topic is to eliminate the problems faces by the people involved in it. In existing system, although it is cost effective and facilitates guaranteed delivery of services, there are some disadvantages like – the delivery is irregular and it may get delayed. There is no uniformity in fair, and the system is also not organised which makes it unreliable. And the customer doesn’t have any option to choose appropriate transportation companies according to his/her needs and has to opt from the existing unreliable ones.
+
+Thus, to make the system more effective and efficient, we have upgraded the system with some added functionalities such as – creating an online bidding system for the transportation and
+service providing companies which will bid on the requests of the customer, so the customer gets to choose the company which provides his/her requested services according to his/her endeavours. And the other upgradation in the system is that if the service providing company fails to deliver the goods and services within specified time limit, the customer will get some reward points.
+
+So, the people involved in chemical, agro-product, textile, mining, dairy-product, heavy metal industries and households are benefited by using our system in running their daily routine errands.
